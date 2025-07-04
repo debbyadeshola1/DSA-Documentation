@@ -22,3 +22,8 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 6. Number of Ratings (Rating Count)
 7. Review content (aggregated in some columns)
 8. Revenue potential fields (derived)
+
+## Analytical Tasks
+| Task Description | Logic Used |
+| ---------------- | ---------- |
+| 
