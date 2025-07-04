@@ -26,4 +26,20 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 ## Analytical Tasks
 | Task Description | Logic Used |
 | ---------------- | ---------- |
-| 
+| What is the average discount % by product category? | Pivot Table + Average Formula |
+| How many products are listed under each category? | Pivot Table + Count |
+| What is the total number of reviews per category? | SUM of Rating Count by category |
+| Which products have the highest average ratings? | Sorting based on calculated Average Rating |
+| What is the actual vs discounted price by category? | pie chart + pivot summary |
+| Which products have the highest number of reviews? | Top-N Analysis using Sorting + Pivot Table |
+| How many products have ≥ 50% discount? | Filter logic on Discount column |
+| What is the distribution of product ratings (e.g., 3.0, 4.0, etc.)? | Grouped histogram with Pivot Count |
+| Total potential revenue (actual_price × rating_count) per category? | New Calculated Column + Pivot Table SUM |
+| Unique product count per price range bucket (<₹200, ₹200–₹500, >₹500)? | IF formulas + Donut Chart |
+| Relationship between rating and discount level? | Scatter Line Chart (2 y-axes) |
+| How many products have fewer than 1,000 reviews? | COUNTIF Formula + Bar Chart |
+| Categories with highest average discount? | Sorted Pivot Table by Discount% |
+| Top 5 products by combined review count and rating | Ranking logic using SUM(Rating × ReviewCount) |
+
+### Analysed File
+
