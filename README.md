@@ -43,3 +43,4 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 
 ### Analysed File
 
+[Amazon File](https://github.com/debbyadeshola1/DSA-Documentation/blob/main/Amazon%20case%20study.xlsx)
