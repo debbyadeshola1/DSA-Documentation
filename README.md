@@ -43,7 +43,7 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 | Top 5 products by combined review count and rating | Ranking logic using SUM(Rating × ReviewCount) |
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎥 Analysed File
-[Amazon Case study report](https://github.com/debbyadeshola1/DSA-Documentation/blob/main/Amazon%20case%20study%20report.xlsx)
+[Amazon Case study report](https://drive.google.com/file/d/1N7xFJNAIlsvlbTttvy48qT3pDz6iDt9E/view)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ⛓️ Highlights
