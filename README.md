@@ -1,6 +1,6 @@
 # DSA-Documentation
 This is a well explained project on Amazon product reviews, discounts and pricing using Excel-based analytics. This project was done during my time at the DSA Incubator hub. This project gives insights on product performance,category trends and customer engagements.
-## Project Topic: Amazon Products Sales Analysis
+## 📖 Project Topic: Amazon Products Sales Analysis
 
 ## Project Context
 Client Name: RetailTech Insights
@@ -8,22 +8,22 @@ Industry: E-commerce Analytics
 Role: Junior Data Analyst
 Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)
 
-## Dataset Summary
+## 📑 Dataset Summary
 - Total Records: 1,465
 - Columns: 16
 - Source: Web-scraped Amazon product review data
 - Each row represents: A unique product
 - Fields included:
-1. Product name
-2. Category
-3. Actual price & Discounted price
-4. Discount %
-5. Rating
-6. Number of Ratings (Rating Count)
-7. Review content (aggregated in some columns)
-8. Revenue potential fields (derived)
+  - Product name
+  - Category
+  - Actual price & Discounted price
+  - Discount %
+  - Rating
+  - Number of Ratings (Rating Count)
+  - Review content (aggregated in some columns)
+  - Revenue potential fields (derived)
 
-## Analytical Tasks
+## 📑 Analytical Tasks
 | Task Description | Logic Used |
 | ---------------- | ---------- |
 | What is the average discount % by product category? | Pivot Table + Average Formula |
@@ -41,9 +41,9 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 | Categories with highest average discount? | Sorted Pivot Table by Discount% |
 | Top 5 products by combined review count and rating | Ranking logic using SUM(Rating × ReviewCount) |
 
-### Analysed File
+### 🎥 Analysed File
 
-[Amazon File](https://github.com/debbyadeshola1/DSA-Documentation/blob/main/Amazon%20case%20study.xlsx)
+
 
 ### Insights
 - Discount vs Rating: Discounted products don’t always have higher ratings. There’s a complex relationship.
