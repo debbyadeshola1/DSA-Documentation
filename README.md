@@ -45,7 +45,7 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 
 
 
-### Insights
+### ⛓️ Insights
 - Discount vs Rating: Discounted products don’t always have higher ratings. There’s a complex relationship.
 - Price Range Bucket: Most products fall under the affordable to moderately expensive range.
 - Revenue Potential: Categories like Home Kitchen and Electronics dominate in potential revenue.
@@ -53,11 +53,11 @@ Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slice
 - Top 5 Products: Based on high review count and strong ratings (e.g., AmazonsBasics FI, Realme X, etc.)
 - Discount Percentage by Category: Health and home products offered the most generous discounts.
 
-### Tools Used
+### 🧰 Tools Used
 - Microsoft Excel
-Pivot Tables
-Data Visualizations (Bar, Line, Donut, Cards)
-Slicers & Filters
-Conditional Formatting
-Named Ranges & Table References
+   -Pivot Tables
+   -Data Visualizations (Bar, Line, Donut, Cards)
+   -Slicers & Filters
+   -Conditional Formatting
+   -Named Ranges & Table References
 
